@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "76471554747",
-    "project_id": "drivevalley-fdb7f",
-    "storage_bucket": "drivevalley-fdb7f.appspot.com"
+    "project_number": "999499743629",
+    "project_id": "tarkwamall-2bb2d",
+    "storage_bucket": "tarkwamall-2bb2d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:76471554747:android:f434fcbf8a18817b6d0f9e",
+        "mobilesdk_app_id": "1:999499743629:android:eb0c960ee2f9ed4067bdc4",
         "android_client_info": {
-          "package_name": "com.sixamtech.delivery"
+          "package_name": "com.tarkwamall.customer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+          "client_id": "999499743629-vl9aql21cpssjdm5trfc54ahk3l95abo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFGqSEiWMItei_AFIUgdM53PWrvyGmjFY"
+          "current_key": "AIzaSyAjIAWLD2Pe_6Cs_HxCJXY5MtDUWo1Shu8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+              "client_id": "999499743629-g9vbm57fov8k2s08e4qephdbcjlhndcb.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "76471554747-3nh7ctih8ihgbam4kva02gsv1gdq8ehq.apps.googleusercontent.com",
+              "client_id": "999499743629-qct820v7jam7q7n4sm8pihmafg0bc83q.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.sixamtech.hexaride"
+                "bundle_id": "com.tarkwamall.seller"
               }
             }
           ]
@@ -43,42 +43,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:76471554747:android:3aa5d58a094e2a036d0f9e",
+        "mobilesdk_app_id": "1:999499743629:android:1e8f332e693e55bd67bdc4",
         "android_client_info": {
-          "package_name": "com.sixamtech.hexaride"
+          "package_name": "com.tarkwamall.delivery"
         }
       },
       "oauth_client": [
         {
-          "client_id": "76471554747-egt363la4reppctajg5qf6o1rb4r881r.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.sixamtech.hexaride",
-            "certificate_hash": "92b9a66a431eaae8e20daf0a1015a9e3dac94eb2"
-          }
-        },
-        {
-          "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+          "client_id": "999499743629-vl9aql21cpssjdm5trfc54ahk3l95abo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFGqSEiWMItei_AFIUgdM53PWrvyGmjFY"
+          "current_key": "AIzaSyAjIAWLD2Pe_6Cs_HxCJXY5MtDUWo1Shu8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+              "client_id": "999499743629-g9vbm57fov8k2s08e4qephdbcjlhndcb.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "76471554747-3nh7ctih8ihgbam4kva02gsv1gdq8ehq.apps.googleusercontent.com",
+              "client_id": "999499743629-qct820v7jam7q7n4sm8pihmafg0bc83q.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.sixamtech.hexaride"
+                "bundle_id": "com.tarkwamall.seller"
               }
             }
           ]
@@ -87,42 +79,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:76471554747:android:b11726467f5ac3d06d0f9e",
+        "mobilesdk_app_id": "1:999499743629:android:9f8984e0e19b095367bdc4",
         "android_client_info": {
-          "package_name": "com.sixamtech.hexaride.rider"
+          "package_name": "com.tarkwamall.seller"
         }
       },
       "oauth_client": [
         {
-          "client_id": "76471554747-fg1k560lm7stnhl58voq2j8rmn5a74uo.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.sixamtech.hexaride.rider",
-            "certificate_hash": "92b9a66a431eaae8e20daf0a1015a9e3dac94eb2"
-          }
-        },
-        {
-          "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+          "client_id": "999499743629-vl9aql21cpssjdm5trfc54ahk3l95abo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFGqSEiWMItei_AFIUgdM53PWrvyGmjFY"
+          "current_key": "AIzaSyAjIAWLD2Pe_6Cs_HxCJXY5MtDUWo1Shu8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+              "client_id": "999499743629-g9vbm57fov8k2s08e4qephdbcjlhndcb.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "76471554747-3nh7ctih8ihgbam4kva02gsv1gdq8ehq.apps.googleusercontent.com",
+              "client_id": "999499743629-qct820v7jam7q7n4sm8pihmafg0bc83q.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.sixamtech.hexaride"
+                "bundle_id": "com.tarkwamall.seller"
               }
             }
           ]
@@ -131,34 +115,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:76471554747:android:0ac224c482bca2536d0f9e",
+        "mobilesdk_app_id": "1:999499743629:android:8030ed18e9a176d867bdc4",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixvalley"
+          "package_name": "com.tarkwamall.user"
         }
       },
       "oauth_client": [
         {
-          "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+          "client_id": "999499743629-vl9aql21cpssjdm5trfc54ahk3l95abo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFGqSEiWMItei_AFIUgdM53PWrvyGmjFY"
+          "current_key": "AIzaSyAjIAWLD2Pe_6Cs_HxCJXY5MtDUWo1Shu8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+              "client_id": "999499743629-g9vbm57fov8k2s08e4qephdbcjlhndcb.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "76471554747-3nh7ctih8ihgbam4kva02gsv1gdq8ehq.apps.googleusercontent.com",
+              "client_id": "999499743629-qct820v7jam7q7n4sm8pihmafg0bc83q.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.sixamtech.hexaride"
+                "bundle_id": "com.tarkwamall.seller"
               }
             }
           ]
@@ -167,34 +151,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:76471554747:android:c47b355578169ce66d0f9e",
+        "mobilesdk_app_id": "1:999499743629:android:f79d62c91f85539867bdc4",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixvalley.seller"
+          "package_name": "com.tarkwamall.vendor"
         }
       },
       "oauth_client": [
         {
-          "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+          "client_id": "999499743629-vl9aql21cpssjdm5trfc54ahk3l95abo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFGqSEiWMItei_AFIUgdM53PWrvyGmjFY"
+          "current_key": "AIzaSyAjIAWLD2Pe_6Cs_HxCJXY5MtDUWo1Shu8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "76471554747-k8l4iefl236bq751f8lacsh28ron2leu.apps.googleusercontent.com",
+              "client_id": "999499743629-g9vbm57fov8k2s08e4qephdbcjlhndcb.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "76471554747-3nh7ctih8ihgbam4kva02gsv1gdq8ehq.apps.googleusercontent.com",
+              "client_id": "999499743629-qct820v7jam7q7n4sm8pihmafg0bc83q.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.sixamtech.hexaride"
+                "bundle_id": "com.tarkwamall.seller"
               }
             }
           ]

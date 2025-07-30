@@ -70,10 +70,13 @@ Future<void> main() async {
         await Firebase.initializeApp(
           name: 'your_project_name_here',
           options: const FirebaseOptions(
-              apiKey: "current_key here",
-              projectId: "mobilesdk_app_id here",
-              messagingSenderId: "project_number here",
-              appId: "project_id here"
+              apiKey: "AIzaSyC5D4FW6WJBzUWxY7940_Cxgh6dx5KQ_KI",
+              authDomain: "tarkwamall-2bb2d.firebaseapp.com",
+              projectId: "tarkwamall-2bb2d",
+              storageBucket: "tarkwamall-2bb2d.appspot.com",
+              messagingSenderId: "999499743629",
+              appId: "1:999499743629:android:8030ed18e9a176d867bdc4",
+              measurementId: "G-EFDC11SCD4",
           ));
       } finally{
 

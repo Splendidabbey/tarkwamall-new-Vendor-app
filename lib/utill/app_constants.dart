@@ -2,11 +2,11 @@ import 'package:sixvalley_vendor_app/localization/models/language_model.dart';
 import 'package:sixvalley_vendor_app/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'Vendor App';
+  static const String appName = 'Tarkwamall Vendor';
   static const String appVersion = '15.2'; // Flutter SDK version - 3.29.3
   static const String companyName = '6Valley';
 
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String baseUrl = 'https://www.tarkwamall.store';
 
   static const String loginUri = '/api/v3/seller/auth/login';
   static const String configUri = '/api/v1/config';
